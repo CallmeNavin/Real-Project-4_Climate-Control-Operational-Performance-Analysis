@@ -11,8 +11,6 @@
   + However, the final downstream outcome showed only marginal improvement. The system therefore behaved more like: an operational stabilization mechanism rather than a direct productivity multiplier.
 - The real business question became: Does environmental stabilization create enough operational value to justify its invest cost?
 
-![photo]()
-
 **What This Case Actually Felt Like**
 
 **1. Problem**
